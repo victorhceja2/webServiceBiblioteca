@@ -2,7 +2,7 @@
 header("Content-Type: application/json");
 error_reporting(E_ALL);
 
-$servername = "mibibliotecapersonal-db-1"; // Cambia esto por el nombre del contenedor de la base de datos
+$servername = "mibibliotecapersonal-web-1"; // Cambia esto por el nombre del contenedor de la base de datos
 $username = "root";
 $password = "innovacionMovil2024*";
 $dbname = "biblioteca";
